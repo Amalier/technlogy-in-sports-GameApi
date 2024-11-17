@@ -1,0 +1,16 @@
+{
+  "name": "technlogy-in-sports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "xlsx": "^0.18.5"
+  }
+}
